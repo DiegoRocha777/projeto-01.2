@@ -101,6 +101,8 @@ footer{
     text-decoration: none;
     font-size: 0.8em;
     padding: 3px;
+    font-weight: bold;
+
 }
 footer a{
     text-decoration: none;
@@ -108,7 +110,7 @@ footer a{
 }
 footer a:hover{
     color: var(--cor1);
-    font-weight: bold;
+    font-weight: bolder;
 }
 footer a:active{
     color: red;
@@ -190,8 +192,8 @@ aside > h3{
     padding: 2px;
 }
 .solitario {
-    background-color: var(--cor5);
-    width: 515px;
+     text-align: justify;
+     text-decoration: underline;
 }
 div.video {
     background-color: var(--cor5);
