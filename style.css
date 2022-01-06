@@ -165,7 +165,6 @@ aside{
     text-decoration: none;
     background-color: var(--cor4);
     margin-top: 10px;
-    columns: 1;
     
     box-shadow: 4px 4px 4px  rgba(0, 0, 0, 0.479);
 }
